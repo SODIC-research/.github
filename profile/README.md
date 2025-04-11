@@ -65,6 +65,8 @@ Germany
 
 - Email: [florian.hahn@informatik.tu-chemnitz.de](mailto:florian.hahn@informatik.tu-chemnitz.de)  
 - GitHub: [github.com/SODIC-research](https://github.com/SODIC-research)
+- GitHub Page:[sodic-research.github.io](sodic-research.github.io)
+- TU Chemnitz Page: [https://www.tu-chemnitz.de/informatik/dm/forschung/sodic.php](https://www.tu-chemnitz.de/informatik/dm/forschung/sodic.php)
 
 ---
 
