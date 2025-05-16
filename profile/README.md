@@ -41,6 +41,7 @@ This Node.js-based research tool analyzes the metadata quality of German municip
 ## ✅ Planned Projects
 
 - **SODA** – Saxony Open Data Assembly *(planned)*
+- **SODPUB** – Standardized Open Data Publication & Utilization Blueprint *(planned)*
 
 ---
 
