@@ -14,10 +14,10 @@ SODIC stands at the intersection of technology, governance, and transparency –
 
 ## 👨‍🔬 Team
 
-- **Florian Hahn** [ORCID]([ORCID](https://orcid.org/0009-0008-1126-9319))
+- **Florian Hahn** [ORCID](https://orcid.org/0009-0008-1126-9319)
   Researcher in Semantic Open Data, Web Technologies & Public Data Infrastructures
 
-- **Prof. Dr. Michael Martin**  [ORCID]([ORCID](https://orcid.org/0000-0003-0762-8688))
+- **Prof. Dr. Michael Martin**  [ORCID](https://orcid.org/0000-0003-0762-8688)
   Professor of Data Management – Expert in Linked Data, Semantics, and Data Architectures
 
 ---
