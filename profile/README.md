@@ -29,6 +29,13 @@ SODIC stands at the intersection of technology, governance, and transparency –
 An interactive map-based tool linking Open Data portals to administrative boundaries across Europe.  
 Introduced at ICEGOV 2025, SODREPO brings spatial context and metadata richness to the Open Data infrastructure landscape.
 
+### SODINA - Sparql for Open Data Introspection, Navigation and Access
+
+SODINA is a lightweight introspection layer for SPARQL endpoints, designed to support semantic data exploration by dynamically exposing available classes, properties, datatypes, and value samples. Inspired by GraphQL’s `__schema` functionality, SODINA lowers the entry barrier for users unfamiliar with the internal vocabulary of RDF-based Open Data portals.
+
+### SODRAM - Specific Open Dataset Regional Analysis Metadata
+This Node.js-based research tool analyzes the metadata quality of German municipal Open Data portals. Specifically, it evaluates the **regional assignability** of datasets depending on whether standardized metadata models like **DCAT-AP** and **GeoDCAT-AP** are used (typically via CKAN), best practice as a SPARQL endpoint, or non-standard formats (e.g. ArcGIS JSON).
+
 ---
 
 ## ✅ Planned Projects
@@ -39,7 +46,7 @@ Introduced at ICEGOV 2025, SODREPO brings spatial context and metadata richness 
 
 ## 🧾 Publications
 
-- Hahn, F. (2025). *Bridging the Hidden Gaps in Germany’s Open Data Landscape: A Step Towards a European Atlas' (ICEGOV 2025).
+- Hahn, F. (2025). 'Bridging gaps in the Open Data landscape: A step towards a global atlas' (ICEGOV 2025).
 - Hahn, F. (2025). 'Towards an Standardized Dataset Publishing in Open Government Data Ecosystems' (ESWC 2025).
 
 ---
