@@ -25,16 +25,17 @@ SODIC stands at the intersection of technology, governance, and transparency –
 ## 🧪 Current Research
 
 ### [SODREPO – Spatial Open Data Regions and Portals](https://rambarz.github.io)
-
-An interactive map-based tool linking Open Data portals to administrative boundaries across Europe.  
-Introduced at ICEGOV 2025, SODREPO brings spatial context and metadata richness to the Open Data infrastructure landscape.
+An interactive map-based tool linking Open Data portals to administrative boundaries across Europe.
 
 ### SODINA - Sparql for Open Data Introspection, Navigation and Access
-
 SODINA is a lightweight introspection layer for SPARQL endpoints, designed to support semantic data exploration by dynamically exposing available classes, properties, datatypes, and value samples. Inspired by GraphQL’s `__schema` functionality, SODINA lowers the entry barrier for users unfamiliar with the internal vocabulary of RDF-based Open Data portals.
 
 ### SODRAM - Specific Open Dataset Regional Analysis Metadata
 This Node.js-based research tool analyzes the metadata quality of German municipal Open Data portals. Specifically, it evaluates the **regional assignability** of datasets depending on whether standardized metadata models like **DCAT-AP** and **GeoDCAT-AP** are used (typically via CKAN), best practice as a SPARQL endpoint, or non-standard formats (e.g. ArcGIS JSON).
+
+### SODBond - Semantic-Orchestration Derivation Bond between BPMN and RDF
+SODBond is a toolkit that bridges Camunda BPMN 2.0 process definitions and runtime instances with RDF knowledge graphs via an ontology-driven approach. It retrieves BPMN models and instance data from Camunda through the REST API and transforms them into semantically rich RDF/OWL representations based on a BPMN-based ontology.
+
 
 ---
 
@@ -64,7 +65,7 @@ This Node.js-based research tool analyzes the metadata quality of German municip
 
 ## 🏫 Affiliation
 
-Faculty of Computer Science, TU Chemnitz  
+Faculty of Computer Science, Professorship Data Management, TU Chemnitz  
 Germany
 
 ---
@@ -79,3 +80,4 @@ Germany
 ---
 
 © {year} SODIC Research Group – TU Chemnitz. All rights reserved.
+Since 02.2025
