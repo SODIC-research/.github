@@ -30,17 +30,23 @@ An interactive map-based tool linking Open Data portals to administrative bounda
 ### SODINA - Sparql for Open Data Introspection, Navigation and Access
 SODINA is a lightweight introspection layer for SPARQL endpoints, designed to support semantic data exploration by dynamically exposing available classes, properties, datatypes, and value samples. Inspired by GraphQL’s `__schema` functionality, SODINA lowers the entry barrier for users unfamiliar with the internal vocabulary of RDF-based Open Data portals.
 
-### SODRAM - Specific Open Dataset Regional Analysis Metadata
+### SODMET (old SODRAM) - Semantic Open Data Metadata Extration Tools  (old Specific Open Dataset Regional Analysis Metadata)
 This Node.js-based research tool analyzes the metadata quality of German municipal Open Data portals. Specifically, it evaluates the **regional assignability** of datasets depending on whether standardized metadata models like **DCAT-AP** and **GeoDCAT-AP** are used (typically via CKAN), best practice as a SPARQL endpoint, or non-standard formats (e.g. ArcGIS JSON).
 
 ### SODBond - Semantic-Orchestration Derivation Bond between BPMN and RDF
 SODBond is a toolkit that bridges Camunda BPMN 2.0 process definitions and runtime instances with RDF knowledge graphs via an ontology-driven approach. It retrieves BPMN models and instance data from Camunda through the REST API and transforms them into semantically rich RDF/OWL representations based on a BPMN-based ontology.
 
+### SODPEST (SPARQL Open Data Portal Endpoint SPARQL Tester)
+SODPEST is a small, dependency-light CLI tool that **derives SPARQL endpoint candidates** for Open Data portals and optionally **verifies** them via real SPARQL protocol checks.
+
+### SODDUT (Semantic Open Data Dataset Update Timeline)
+SODDUT ist an interactive timeline to check the corresponding creation and updating process of an Open Data Dataset.
 
 ---
 
 ## ✅ Planned Projects
 
+- **SODS** – Special Open Data Survey *(planned)*
 - **SODA** – Saxony Open Data Assembly *(planned)*
 - **SODPUB** – Standardized Open Data Publication & Utilization Blueprint *(planned)*
 
@@ -48,6 +54,8 @@ SODBond is a toolkit that bridges Camunda BPMN 2.0 process definitions and runti
 
 ## 🧾 Publications
 
+- Hahn, F. (2025). 'Ontology Driven Transformation of Camunda BPMN Instances into RDF Knowledge Graphs' (NFDI4KG 2025)
+- Hahn, F. (2025). 'Geographical Provenance of Open Government Datasets: Evaluating Geospatial Metadata in Municipal Open Data Portals' (DCMI 2025) 
 - Hahn, F. (2025). 'Bridging gaps in the Open Data landscape: A step towards a global atlas' (ICEGOV 2025).
 - Hahn, F. (2025). 'Towards an Standardized Dataset Publishing in Open Government Data Ecosystems' (ESWC 2025).
 
