@@ -26,7 +26,7 @@ SODIC stands at the intersection of technology, governance, and transparency –
 
 ### SODPUB - Semantic Open Data Publisher - Standardized Open Data Publication & Utilization Blueprint
 SODPUB is a docker based tool for enhancing pre-publication processes for Open Data. It supports CSV input files and produces enhanced CSV file, improvied metadata file and an reproducable publication file, all together ready for semantic interoperability in RDF format.
-This work is the main focus at the moment and there is not an officially release right now, but you can sneak peak into the architecture level here: 🌐 [SODPUB GitHub Repository](https://github.com/SODIC-research/SODPUB/)
+This work is the main focus at the moment and there is not an officially release right now, but you can sneak peak into the architecture level here: 🌐 [SODPUB GitHub Repository](https://github.com/SODIC-research/SODPUB/) or an under development website here: 🌐 [SODPUB pre-website](https://sodpub.de/)
 
 ### SODS
 SODS is an survey based on DACH region Open Data Portals to gather information about the Open Data Portal state with best practices, standards, interoperability, current work and more. The survey took place in january 2026. All results are published here: 🌐 [SODS GitHub Repository](https://github.com/SODIC-research/SODS)
